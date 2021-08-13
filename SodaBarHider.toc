@@ -1,0 +1,5 @@
+## Interface: 20501
+## Title: SodaBarHider
+## Author: Sodaro
+## Version: 0.1
+main.lua
